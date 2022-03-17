@@ -3,7 +3,7 @@
 Voi de tai "Xay dung website ban hoa Online" chung em van dung cac kien thuc da xay dung trang web co tinh thuc, 
 dong thoi cung co va nang cao kien, ky nang, bo sung kinh thuc te
 ## MUC TIEU CHINH CUA DE TAI
-Cung co kien 
+- Cung co kien 
 - Buoc dau xay dung website ban hoa truc nham quang ba rong rai cac loai tai cua 
 - Tiet kiem thoi gian, chi phi 1 cach dang thong qua nhung thong tin phu hop voi nhu cau ban doc va khach hang
 ## HINH ANH DEMO VE DU AN
